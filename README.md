@@ -10,11 +10,11 @@ this repository contains my few projects and cover letter for the android dev ch
   <img src ="https://user-images.githubusercontent.com/24929566/69911299-4c128a00-143f-11ea-85e1-545e2d3dfd72.jpeg" width="200">
 </p>
 
-Figure1 : Crop images directly from camera clicked or from gallery
-Figure2 : Extract the text into the TextView
-Figure3 : Select the text from the TextView
-Figure4 : Copy the text
-Figure5 : Paste the text into Google Keep or any notepad or user can even search those text on search engines.
+Figure1 : Crop images directly from camera clicked or from gallery  
+Figure2 : Extract the text into the TextView  
+Figure3 : Select the text from the TextView  
+Figure4 : Copy the text  
+Figure5 : Paste the text into Google Keep or any notepad or user can even search those text on search engines.  
 
 My other repository also includes: 
 1. Activity Recognition App using ActivityRecognitionAPi that recognises users activity whether he is walking/riding/running
