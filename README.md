@@ -3,3 +3,5 @@ this repository contains my few projects and cover letter for the android dev ch
 
 #Screenshots of the proposed application idea:
 ![SS1](https://user-images.githubusercontent.com/24929566/69911229-74e64f80-143e-11ea-9a21-cee06d3139aa.jpeg)
+Select text portion from image and crop it
+
